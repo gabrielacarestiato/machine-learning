@@ -57,9 +57,9 @@ O projeto pode ser acessado através do [Google Colab](https://drive.google.com/
 
 ## Principais descobertas
 
-- Certos tipos de lesão, como rupturas ligamentares e lesões no joelho, estão associadas a longos períodos de recuperação.
-- Lesões musculares ou torções tendem a apresentar duração curta.
-- A posição em campo influencia o tipo e a gravidade da lesão, como por exemplo, meio-campistas defensivos e goleiros aparecem com afastamentos mais longos.
+- As classes tiveram leve desbalanceamento, o que pode ter influenciado negativamente as métricas.
+- Como o dataset é pequeno, ele aumenta o risco de overfitting.
+- O melhor modelo foi o Logistic Regression, que se destacou após o ajuste de hiperparâmetros.
 - O modelo de Machine Learning apresentou bom desempenho na classificação da duração das lesões, mostrando potencial para aplicações em análise esportiva.
 
 ---
