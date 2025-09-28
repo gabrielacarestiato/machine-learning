@@ -1,4 +1,4 @@
-# 📊 Análise e Previsão de Duração de Lesões em Jogadores de Futebol
+# 📊 Análise e previsão de duração de lesões em jogadores de futebol da Premier League
 
 Este projeto visa analisar padrões de lesões em jogadores de futebol e prever a classe de duração da lesão (curta ou longa) com base em características dos atletas e dos tipos de lesões.
 
@@ -6,9 +6,9 @@ Este projeto visa analisar padrões de lesões em jogadores de futebol e prever 
 
 ## Objetivos
 
-- Realizar análise exploratória de dados (EDA) sobre lesões em jogadores de futebol;
-- Identificar padrões entre posição, tipo de lesão e tempo de recuperação;
-- Criar um modelo de classificação preditiva para estimar a categoria de duração da lesão;
+- Realizar análise exploratória de dados (EDA) sobre lesões em jogadores de futebol.
+- Identificar padrões entre posição, tipo de lesão e tempo de recuperação.
+- Criar um modelo de classificação preditiva para estimar a categoria de duração da lesão.
 - Visualizar insights relevantes por meio de gráficos e estatísticas descritivas.
 
 ---
@@ -39,8 +39,7 @@ jupyter notebook MVP_GABRIELACARESTIATO_40530010056_20250_01.ipynb
 ```
 ou 
 
-O projeto pode ser acessado através do [Google Colab]([https://colab.research.google.com/drive/1e2s17mlqpnBoQaZhMUexZOchvx2SFySe?usp=sharing](https://drive.google.com/file/d/1-ifqVh3iKOY1uU1cUWJgd6qmKaT_ZcHm/view?usp=sharing)).
-
+O projeto pode ser acessado através do [Google Colab](https://drive.google.com/file/d/1-ifqVh3iKOY1uU1cUWJgd6qmKaT_ZcHm/view?usp=sharing).
 ---
 
 ## Etapas realizadas
@@ -65,10 +64,6 @@ O projeto pode ser acessado através do [Google Colab]([https://colab.research.g
 ---
 
 ## Autora
-
-**Gabriela Carestiato** 
-
-[GitHub](https://github.com/gabrielacarestiato)
 
 **Gabriela Carestiato** 
 
