@@ -1,6 +1,6 @@
 # 📊 Análise e previsão de duração de lesões em jogadores de futebol da Premier League
 
-Este projeto visa analisar padrões de lesões em jogadores de futebol e prever a classe de duração da lesão (curta ou longa) com base em características dos atletas e dos tipos de lesões.
+Este projeto visa analisar padrões de lesões em jogadores da Premier League e prever a classe de duração da lesão (curta ou longa) com base em características dos atletas e nos tipos de lesões registradas. A análise combina técnicas de estatística descritiva, visualização de dados e Machine Learning, oferecendo insights relevantes sobre prevenção e gestão de lesões no futebol profissional.
 
 ---
 
